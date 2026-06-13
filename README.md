@@ -262,20 +262,6 @@ npm install
 npm run dev
 ```
 
-Vite 已配置 `/DaHu` 代理到 `http://localhost:8080`，前端开发时可以直接调用后端接口。
-
-## 截图目录建议
-
-README 中已预留以下截图路径，可在后续补充真实前端界面截图：
-
-```text
-docs/screenshots/auth.png
-docs/screenshots/workspace-home.png
-docs/screenshots/agent-plaza.png
-docs/screenshots/chat-view.png
-docs/screenshots/auto-agent.png
-```
-
 ## 项目特点
 
 - 前后端围绕统一工作台组织，登录后进入完整智能体使用流程。
